@@ -1,0 +1,12 @@
+Source: ros-jazzy-ur-moveit-config
+Section: misc
+Priority: optional
+Maintainer: Felix Exner <feex@universal-robots.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-ur-moveit-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-moveit-configs-utils, ros-jazzy-moveit-kinematics, ros-jazzy-moveit-planners, ros-jazzy-moveit-planners-chomp, ros-jazzy-moveit-ros-move-group, ros-jazzy-moveit-ros-visualization, ros-jazzy-moveit-servo, ros-jazzy-moveit-simple-controller-manager, ros-jazzy-ur-description, ros-jazzy-warehouse-ros-sqlite, ros-jazzy-xacro, ros-jazzy-ros-workspace
+Description: An example package with MoveIt2 configurations for UR robots.
