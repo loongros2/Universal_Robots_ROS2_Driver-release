@@ -1,0 +1,154 @@
+ros-jazzy-ur-dashboard-msgs (3.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 29 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (3.0.0-1trixie) trixie; urgency=high
+
+  * Update package maintainers (#1203 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1203>)
+  * Contributors: Felix Exner
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 17 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.13-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 27 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.12-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 13 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.11-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 09 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.10-1trixie) trixie; urgency=high
+
+  * Update maintainers team (#1088 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1088>)
+  * Contributors: Vincenzo Di Pentima
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 10 Sep 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.9-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 08 Aug 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.8-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 30 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.7-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 18 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.6-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 16 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.5-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 15 May 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.4-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 03 Apr 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.3-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 01 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.2-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 22 Nov 2023 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 20 Sep 2023 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.4.0-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 27 Aug 2023 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.3.2-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 01 Jun 2023 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.3.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 15 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.3.0-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 01 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.2.4-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 06 Oct 2022 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.2.3-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 26 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.2.2-1trixie) trixie; urgency=high
+
+  * Made sure all past maintainers are listed as authors (#429 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/429>)
+  * Contributors: Felix Exner
+
+ -- Felix Exner <feex@universal-robots.com>  Mon, 18 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.2.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 26 Jun 2022 16:00:00 -0000
+
+ros-jazzy-ur-dashboard-msgs (2.2.0-1trixie) trixie; urgency=high
+
+  * Updated package maintainers
+  * Update license to BSD-3-Clause (#277 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/277>)
+  * Review CI by correcting the configurations (#71 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/71>)
+  * Use GitHub Actions, use pre-commit formatting (#56 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/56>)
+  * Add XML schema to all ``package.xml`` files
+  * Compile ur_dashboard_msgs for ROS2
+  * Contributors: AndyZe, Denis Štogl, Felix Exner, John Morris, livanov93
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 19 Jun 2022 16:00:00 -0000
+
+
