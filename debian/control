@@ -1,0 +1,12 @@
+Source: ros-jazzy-ur-robot-driver
+Section: misc
+Priority: optional
+Maintainer: Felix Exner <feex@universal-robots.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-cmake-python, ros-jazzy-backward-ros, ros-jazzy-controller-manager, ros-jazzy-controller-manager-msgs, ros-jazzy-geometry-msgs, ros-jazzy-hardware-interface, ros-jazzy-launch-testing-ament-cmake <!nocheck>, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-lifecycle, ros-jazzy-rclpy, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-ur-client-library, ros-jazzy-ur-controllers, ros-jazzy-ur-dashboard-msgs, ros-jazzy-ur-description, ros-jazzy-ur-msgs, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-ur-robot-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-backward-ros, ros-jazzy-controller-manager, ros-jazzy-controller-manager-msgs, ros-jazzy-force-torque-sensor-broadcaster, ros-jazzy-geometry-msgs, ros-jazzy-hardware-interface, ros-jazzy-joint-state-broadcaster, ros-jazzy-joint-state-publisher, ros-jazzy-joint-trajectory-controller, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-pluginlib, ros-jazzy-pose-broadcaster, ros-jazzy-position-controllers, ros-jazzy-rclcpp, ros-jazzy-rclcpp-lifecycle, ros-jazzy-rclpy, ros-jazzy-robot-state-publisher, ros-jazzy-ros2-controllers-test-nodes, ros-jazzy-rviz2, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-ur-client-library, ros-jazzy-ur-controllers, ros-jazzy-ur-dashboard-msgs, ros-jazzy-ur-description, ros-jazzy-ur-msgs, ros-jazzy-urdf, ros-jazzy-velocity-controllers, ros-jazzy-xacro, socat, ros-jazzy-ros-workspace
+Description: The new driver for Universal Robots UR3, UR5 and UR10 robots with CB3 controllers and the e-series.
