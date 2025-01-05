@@ -1,9 +1,0 @@
-Format: Bloom subset of https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ur_robot_driver
-Upstream-Contact: https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues
-Source: https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver
-
-Files: See file headers in repository for details
-Copyright: See package copyright in source code for details
-License: BSD-3-Clause
- See repository for full license text
