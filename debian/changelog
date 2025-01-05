@@ -1,0 +1,163 @@
+ros-jazzy-ur (3.0.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 29 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur (3.0.0-1noble) noble; urgency=high
+
+  * Update package maintainers (#1203 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1203>)
+  * Contributors: Felix Exner
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 17 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.13-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 27 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.12-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 13 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.11-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 09 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.10-1noble) noble; urgency=high
+
+  * Update maintainers team (#1088 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1088>)
+  * Contributors: Vincenzo Di Pentima
+
+ -- Felix Exner <exner@fzi.de>  Tue, 10 Sep 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.9-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Thu, 08 Aug 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.8-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 30 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.7-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Tue, 18 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.6-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 16 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.5-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 15 May 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.4-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 03 Apr 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.3-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Thu, 01 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.2-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 22 Nov 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.4.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 20 Sep 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.4.0-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 27 Aug 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.3.2-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Thu, 01 Jun 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.3.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 15 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.3.0-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 01 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.2.4-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Thu, 06 Oct 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.3-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Tue, 26 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.2-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Mon, 18 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 26 Jun 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.0-1noble) noble; urgency=high
+
+  * wip
+  * Rework bringup (#403 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/403>)
+    * Copy all bringup files to ur_robot_driver
+    * Update documentation to use launchfiles from ur_robot_driver
+    * Add deprecation warnings for ur_bringup
+    * Add ``ur`` metapackage
+    * Added deprecation warning to toplevel README
+    * Added meta package to CI checks
+  * Contributors: Felix Exner
+  * Rework bringup (#403 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/403>)
+  * Contributors: Felix Exner
+
+ -- Felix Exner <exner@fzi.de>  Sun, 19 Jun 2022 16:00:00 -0000
+
+ros-jazzy-ur (0.0.3-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 28 Oct 2020 16:00:00 -0000
+
+
