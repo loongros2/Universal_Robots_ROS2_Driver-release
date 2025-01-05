@@ -1,3 +1,32 @@
+## ur_robot_driver (jazzy) - 3.0.1-1
+
+The packages in the `ur_robot_driver` repository were released into the `jazzy` distro by running `/home/z572/gits/loongros2/venv/bin/bloom-release -r jazzy ur_robot_driver --override-release-repository-push-url git@github.com:loongros2/Universal_Robots_ROS2_Driver-release` on `Sun, 05 Jan 2025 02:46:19 -0000`
+
+These packages were released:
+- `ur`
+- `ur_calibration`
+- `ur_controllers`
+- `ur_dashboard_msgs`
+- `ur_moveit_config`
+- `ur_robot_driver`
+
+Version of package(s) in repository `ur_robot_driver`:
+
+- upstream repository: https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver.git
+- release repository: https://github.com/loongros2/Universal_Robots_ROS2_Driver-release.git
+- rosdistro version: `3.0.1-1`
+- old version: `3.0.0-1`
+- new version: `3.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ur_robot_driver (humble) - 2.5.1-1
 
 The packages in the `ur_robot_driver` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble ur_robot_driver` on `Sat, 21 Dec 2024 22:31:07 -0000`
