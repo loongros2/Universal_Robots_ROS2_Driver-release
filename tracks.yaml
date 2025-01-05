@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:loongros2/Universal_Robots_ROS2_Driver-release
 tracks:
   foxy:
     actions:
