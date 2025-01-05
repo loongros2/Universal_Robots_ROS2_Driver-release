@@ -1,0 +1,12 @@
+Source: ros-jazzy-ur-calibration
+Section: misc
+Priority: optional
+Maintainer: Felix Exner <feex@universal-robots.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, libyaml-cpp-dev, ros-jazzy-ament-cmake, ros-jazzy-ament-cmake-gmock <!nocheck>, ros-jazzy-ament-cmake-gtest <!nocheck>, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-rclcpp, ros-jazzy-ur-client-library, ros-jazzy-ur-robot-driver, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-ur-calibration
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, libyaml-cpp-dev, ros-jazzy-rclcpp, ros-jazzy-ur-client-library, ros-jazzy-ur-robot-driver, ros-jazzy-ros-workspace
+Description: Package for extracting the factory calibration from a UR robot and change it such that it can be used by ur_description to gain a correct URDF

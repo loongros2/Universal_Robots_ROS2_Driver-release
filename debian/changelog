@@ -1,0 +1,164 @@
+ros-jazzy-ur-calibration (3.0.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 29 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (3.0.0-1noble) noble; urgency=high
+
+  * Update package maintainers (#1203 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1203>)
+  * Initialize segments in constructor of DHRobot in calibration.hpp (#1197 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1197>)
+  * Contributors: Benjamin, Felix Exner
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 17 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.13-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 27 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.12-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 13 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.11-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 09 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.10-1noble) noble; urgency=high
+
+  * Update maintainers team (#1088 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1088>)
+  * Contributors: Vincenzo Di Pentima
+
+ -- Felix Exner <exner@fzi.de>  Tue, 10 Sep 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.9-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Thu, 08 Aug 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.8-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 30 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.7-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Tue, 18 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.6-1noble) noble; urgency=high
+
+  * Fix calibration (#1017 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1017>)
+  * Restructure documentation for full stack documentation (#984 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/984>)
+  * Contributors: Felix Exner (fexner), Vincenzo Di Pentima
+
+ -- Felix Exner <exner@fzi.de>  Sun, 16 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.5-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 15 May 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.4-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 03 Apr 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.3-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Thu, 01 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.2-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 22 Nov 2023 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 20 Sep 2023 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.4.0-1noble) noble; urgency=high
+
+  * Use mock_hardware and mock_sensor_commands instead of fake (#739 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/739>)
+    * Use mock_hardware and mock_sensor_commands instead of fake
+    This has been deprecated a while back and was never adapted.
+    * Update documentation to mock_hardware
+  * Contributors: Felix Exner (fexner)
+
+ -- Felix Exner <exner@fzi.de>  Sun, 27 Aug 2023 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.3.2-1noble) noble; urgency=high
+
+  * Fixed formatting (#685 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/685>)
+    * Removed empty lines from python files
+    * Fixed typo in changelogs
+  * Contributors: Felix Exner (fexner)
+
+ -- Felix Exner <exner@fzi.de>  Thu, 01 Jun 2023 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.3.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Wed, 15 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.3.0-1noble) noble; urgency=high
+
+  * Fixes launchfile references (#490 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/490>)
+    The filename with the dual type ending was wrong.
+  * Contributors: Felix Exner
+
+ -- Felix Exner <exner@fzi.de>  Wed, 01 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.2.4-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Thu, 06 Oct 2022 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.2.3-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Tue, 26 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.2.2-1noble) noble; urgency=high
+
+  * Made sure all past maintainers are listed as authors (#429 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/429>)
+  * Contributors: Felix Exner
+
+ -- Felix Exner <exner@fzi.de>  Mon, 18 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.2.1-1noble) noble; urgency=high
+
+
+
+ -- Felix Exner <exner@fzi.de>  Sun, 26 Jun 2022 16:00:00 -0000
+
+ros-jazzy-ur-calibration (2.2.0-1noble) noble; urgency=high
+
+  * Updated package maintainers
+  * Update license to BSD-3-Clause (#277 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/277>)
+  * Add missing dependency on angles and update formatting for linters. (#283 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/283>)
+  * Calibration extraction package (#186 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/186>)
+  * Contributors: Denis Štogl, Felix Exner, livanov93
+
+ -- Felix Exner <exner@fzi.de>  Sun, 19 Jun 2022 16:00:00 -0000
+
+
