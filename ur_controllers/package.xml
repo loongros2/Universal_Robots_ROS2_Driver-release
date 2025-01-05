@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>ur_controllers</name>
-  <version>3.0.0</version>
+  <version>3.0.1</version>
   <description>Provides controllers that use the speed scaling interface of Universal Robots.</description>
 
   <maintainer email="feex@universal-robots.com">Felix Exner</maintainer>
@@ -26,6 +26,7 @@
   <depend>angles</depend>
   <depend>controller_interface</depend>
   <depend>geometry_msgs</depend>
+  <depend>hardware_interface</depend>
   <depend>joint_trajectory_controller</depend>
   <depend>lifecycle_msgs</depend>
   <depend>pluginlib</depend>
@@ -42,6 +43,8 @@
   <depend>trajectory_msgs</depend>
   <depend>action_msgs</depend>
 
+  <test_depend>controller_manager</test_depend>
+  <test_depend>ros2_control_test_assets</test_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
