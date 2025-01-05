@@ -1,3 +1,4 @@
+.. _robot_setup:
 
 Setting up a UR robot for ur_robot_driver
 =========================================
@@ -52,7 +53,7 @@ This section describes installation and launching of the URCap program from the 
 For using the *ur_robot_driver* with a real robot you need to install the
 **externalcontrol urcap**. The latest release can be downloaded from `its own repository <https://github.com/UniversalRobots/Universal_Robots_ExternalControl_URCap/releases>`_.
 
-**Note**: For installing this URCap a minimal PolyScope version of 3.7 or 5.1 (in case of e-Series) is
+**Note**: For installing this URCap a minimal PolyScope version of 3.14.3 or 5.9.4 (in case of e-Series) is
 necessary.
 
 For installing the necessary URCap and creating a program, please see the individual tutorials on
@@ -67,6 +68,8 @@ Prepare the ROS PC
 
 For using the driver make sure it is installed (either by the debian package or built from source
 inside a colcon workspace).
+
+.. _calibration_extraction:
 
 Extract calibration information
 -------------------------------
@@ -84,5 +87,11 @@ For this, there exists a helper script:
    $ ros2 launch ur_calibration calibration_correction.launch.py \
    robot_ip:=<robot_ip> target_filename:="${HOME}/my_robot_calibration.yaml"
 
+.. note::
+   The robot must be powered on (can be idle) before executing this script.
+
+
 For the parameter ``robot_ip`` insert the IP address on which the ROS pc can reach the robot. As
 ``target_filename`` provide an absolute path where the result will be saved to.
+
+See :ref:`ur_robot_driver_startup` for instructions on using the extracted calibration information.

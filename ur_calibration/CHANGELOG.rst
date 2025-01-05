@@ -2,51 +2,78 @@
 Changelog for package ur_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.5.1 (2024-12-21)
+3.0.1 (2024-12-30)
 ------------------
 
-2.5.0 (2024-12-18)
+3.0.0 (2024-12-18)
 ------------------
-* Update package maintainers (backport of `#1203 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1203>`_)
-* Initialize segments in constructor of DHRobot in calibration.hpp (backport of `#1197 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1197>`_)
-* Contributors: mergify[bot]
+* Update package maintainers (`#1203 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1203>`_)
+* Initialize segments in constructor of DHRobot in calibration.hpp (`#1197 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1197>`_)
+* Contributors: Benjamin, Felix Exner
 
-2.2.16 (2024-10-28)
+2.4.13 (2024-10-28)
 -------------------
 
-2.2.15 (2024-07-26)
+2.4.12 (2024-10-14)
 -------------------
 
-2.2.14 (2024-07-01)
+2.4.11 (2024-10-10)
 -------------------
 
-2.2.13 (2024-06-17)
+2.4.10 (2024-09-11)
 -------------------
-* Fix calibration (`#1022 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1022>`_)
-* Contributors: Felix Exner, Vincenzo Di Pendima
+* Update maintainers team (`#1088 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1088>`_)
+* Contributors: Vincenzo Di Pentima
 
-2.2.12 (2024-05-16)
--------------------
-
-2.2.11 (2024-04-08)
--------------------
-
-2.2.10 (2024-01-03)
--------------------
-
-2.2.9 (2023-09-22)
+2.4.9 (2024-08-09)
 ------------------
 
-2.2.8 (2023-06-26)
+2.4.8 (2024-07-01)
 ------------------
 
-2.2.7 (2023-06-02)
+2.4.7 (2024-06-19)
 ------------------
 
-2.2.6 (2022-11-28)
+2.4.6 (2024-06-17)
+------------------
+* Fix calibration (`#1017 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1017>`_)
+* Restructure documentation for full stack documentation (`#984 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/984>`_)
+* Contributors: Felix Exner (fexner), Vincenzo Di Pentima
+
+2.4.5 (2024-05-16)
 ------------------
 
-2.2.5 (2022-11-19)
+2.4.4 (2024-04-04)
+------------------
+
+2.4.3 (2024-02-02)
+------------------
+
+2.4.2 (2023-11-23)
+------------------
+
+2.4.1 (2023-09-21)
+------------------
+
+2.4.0 (2023-08-28)
+------------------
+* Use mock_hardware and mock_sensor_commands instead of fake (`#739 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/739>`_)
+  * Use mock_hardware and mock_sensor_commands instead of fake
+  This has been deprecated a while back and was never adapted.
+  * Update documentation to mock_hardware
+* Contributors: Felix Exner (fexner)
+
+2.3.2 (2023-06-02)
+------------------
+* Fixed formatting (`#685 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/685>`_)
+  * Removed empty lines from python files
+  * Fixed typo in changelogs
+* Contributors: Felix Exner (fexner)
+
+2.3.1 (2023-03-16)
+------------------
+
+2.3.0 (2023-03-02)
 ------------------
 * Fixes launchfile references (`#490 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/490>`_)
   The filename with the dual type ending was wrong.
