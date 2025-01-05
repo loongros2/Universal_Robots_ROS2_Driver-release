@@ -1,0 +1,163 @@
+ros-jazzy-ur (3.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 29 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur (3.0.0-1trixie) trixie; urgency=high
+
+  * Update package maintainers (#1203 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1203>)
+  * Contributors: Felix Exner
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 17 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.13-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 27 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.12-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 13 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.11-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 09 Oct 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.10-1trixie) trixie; urgency=high
+
+  * Update maintainers team (#1088 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/1088>)
+  * Contributors: Vincenzo Di Pentima
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 10 Sep 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.9-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 08 Aug 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.8-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 30 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.7-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 18 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.6-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 16 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.5-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 15 May 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.4-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 03 Apr 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.3-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 01 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ur (2.4.2-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 22 Nov 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.4.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 20 Sep 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.4.0-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 27 Aug 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.3.2-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 01 Jun 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.3.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 15 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.3.0-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 01 Mar 2023 16:00:00 -0000
+
+ros-jazzy-ur (2.2.4-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Thu, 06 Oct 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.3-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Tue, 26 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.2-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Mon, 18 Jul 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.1-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 26 Jun 2022 16:00:00 -0000
+
+ros-jazzy-ur (2.2.0-1trixie) trixie; urgency=high
+
+  * wip
+  * Rework bringup (#403 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/403>)
+    * Copy all bringup files to ur_robot_driver
+    * Update documentation to use launchfiles from ur_robot_driver
+    * Add deprecation warnings for ur_bringup
+    * Add ``ur`` metapackage
+    * Added deprecation warning to toplevel README
+    * Added meta package to CI checks
+  * Contributors: Felix Exner
+  * Rework bringup (#403 <https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/issues/403>)
+  * Contributors: Felix Exner
+
+ -- Felix Exner <feex@universal-robots.com>  Sun, 19 Jun 2022 16:00:00 -0000
+
+ros-jazzy-ur (0.0.3-1trixie) trixie; urgency=high
+
+
+
+ -- Felix Exner <feex@universal-robots.com>  Wed, 28 Oct 2020 16:00:00 -0000
+
+

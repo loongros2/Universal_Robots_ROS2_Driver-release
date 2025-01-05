@@ -1,0 +1,12 @@
+Source: ros-jazzy-ur
+Section: misc
+Priority: optional
+Maintainer: Felix Exner <feex@universal-robots.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-ur
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-ur-calibration, ros-jazzy-ur-controllers, ros-jazzy-ur-dashboard-msgs, ros-jazzy-ur-moveit-config, ros-jazzy-ur-robot-driver, ros-jazzy-ros-workspace
+Description: Metapackage for universal robots
